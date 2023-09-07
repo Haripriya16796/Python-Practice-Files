@@ -4,7 +4,6 @@ the difference is that threads run in the same memory space
 while process have separate memory. This makes it a bit harder to share
 objects between processes
 '''
-
 import threading
 import requests
 
